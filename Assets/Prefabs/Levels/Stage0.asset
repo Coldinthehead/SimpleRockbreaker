@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97b11318652c35046a827be499bc56e1, type: 3}
+  m_Name: Stage0
+  m_EditorClassIdentifier: 
+  Levels:
+  - BlocksPattern: {fileID: 1841786476901738720, guid: 9cc0c00a10d262540b54fbff4f10fa25, type: 3}
+    Background: {fileID: 21300000, guid: 765a567b67ca86e43987a1d636c36568, type: 3}
+  - BlocksPattern: {fileID: 1841786476901738720, guid: 9cc0c00a10d262540b54fbff4f10fa25, type: 3}
+    Background: {fileID: 21300000, guid: 5f3f0cff34241154a9ebea68944b95bc, type: 3}
+  - BlocksPattern: {fileID: 1841786476901738720, guid: 9cc0c00a10d262540b54fbff4f10fa25, type: 3}
+    Background: {fileID: 21300000, guid: 0a5f8d02b7c6be945942d7b70b256cb7, type: 3}
